@@ -7,3 +7,5 @@ This repo was built step-by-step from the tutorial
 It has now updated to include some steps about using github too
 
 This line will be used to illustrate using git pull
+
+Adding a new line to the readme
